@@ -33,6 +33,8 @@
             <a href="" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Edit Category</a>
             <a href="/tracking/categories/view_categories.php" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">View Categories</a>
             <a href="/tracking/bills/add_bills.php" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Create Bill</a>
+            <a href="/tracking/bills/edit_bills.php" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Edit Bill</a>
+            <a href="/tracking/bills/list_bills.php" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">List Bill</a>
             <a href="/tracking/report/report.php" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Report Bill</a>
           </div>
         </div>

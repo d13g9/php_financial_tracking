@@ -33,6 +33,5 @@ $con->close();
                     </tbody>
             </table>
         </div>
-      </form>
     </div>
 </html>

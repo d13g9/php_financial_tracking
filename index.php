@@ -1,4 +1,6 @@
-
+<?php
+putenv("DT_CUSTOM_PROP=Application=Consorcio");
+?>
 <html>
     <head>
         <meta charset="UTF-8" />
